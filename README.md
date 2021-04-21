@@ -1,5 +1,5 @@
 ### Hi there My Name is Samuel Gonzalez Checa
-
+[![Sam'slanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=samgonchec&layout=compact&theme=radical)](https://github.com/samgonchec)
 <!--
 **SamGonChec/SamGonChec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Sam'slanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=samgonchec&layout=compact&theme=radical)](https://github.com/samgonchec)
